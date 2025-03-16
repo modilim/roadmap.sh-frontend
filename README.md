@@ -1,2 +1,3 @@
 # roadmap.sh-frontend
-2. https://github.com/modilim/roadmap.sh-frontend/tree/main/02-basic-html-website
+1. https://roadmap.sh/projects/single-page-cv
+2. https://roadmap.sh/projects/basic-html-website
