@@ -6,4 +6,4 @@ Projects
 Articles
 Contact
 
-This project is gotten from https://roadmap.sh/projects/basic-html-website
+https://roadmap.sh/projects/basic-html-website
